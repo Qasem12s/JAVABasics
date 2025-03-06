@@ -1,5 +1,5 @@
 # JAVABasics
-# SomeOf Star Pattern that esay to creat on java According to Sqare star Pattern
+ SomeOf Star Pattern that esay to creat on java According to Sqare star Pattern
 
 first Squre empty mid
 second a pyramid
